@@ -1,0 +1,105 @@
+
+> faculty-analyzer-backend@1.0.0 dev
+> nodemon server.js
+
+[33m[nodemon] 3.1.14[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node server.js`[39m
+MongoDB connected
+Server running on port 5000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+MongoDB connected
+Server running on port 5000
+Socket connected: 5-grAaakPynX9MA8AAAB
+Socket disconnected: 5-grAaakPynX9MA8AAAB
+Socket connected: tdXV7yuecwhzJa0lAAAD
+Socket disconnected: tdXV7yuecwhzJa0lAAAD
+Socket connected: Gf8kd3aav2k-JdLQAAAF
+Teacher null joined room
+Socket disconnected: Gf8kd3aav2k-JdLQAAAF
+Socket connected: YktVvnRH7B7Qny2KAAAH
+Socket disconnected: YktVvnRH7B7Qny2KAAAH
+Socket connected: mJTuyzH7tx9it0w_AAAJ
+Teacher null joined room
+Socket disconnected: mJTuyzH7tx9it0w_AAAJ
+Socket connected: hYI5pVBnWWwIgT2IAAAL
+Socket disconnected: hYI5pVBnWWwIgT2IAAAL
+Socket connected: IlJPtF8gVvnotcdZAAAN
+Socket disconnected: IlJPtF8gVvnotcdZAAAN
+Socket connected: 4AruqtRtnSaZuk8vAAAP
+Teacher null joined room
+Socket disconnected: 4AruqtRtnSaZuk8vAAAP
+Socket connected: tKS-fBGBGALvm82wAAAR
+Teacher null joined room
+Socket disconnected: tKS-fBGBGALvm82wAAAR
+Socket connected: FBNe7lUBEAGFgTFRAAAT
+Teacher null joined room
+Socket disconnected: FBNe7lUBEAGFgTFRAAAT
+Socket connected: 7crjEkA6OsoDhhGMAAAV
+Teacher null joined room
+Socket disconnected: 7crjEkA6OsoDhhGMAAAV
+Socket connected: QxHqqrFlQNxPNJoQAAAX
+Teacher null joined room
+Socket disconnected: QxHqqrFlQNxPNJoQAAAX
+Socket connected: hcHNN6pBGm0Qqo7pAAAZ
+Teacher null joined room
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+MongoDB connected
+Server running on port 5000
+Socket connected: MsCpiQgP2__85XxOAAAB
+Teacher null joined room
+Socket disconnected: MsCpiQgP2__85XxOAAAB
+Socket connected: wojQewBXRv-EFtIyAAAD
+Teacher null joined room
+Socket disconnected: wojQewBXRv-EFtIyAAAD
+Socket connected: q7eUnUzJhOJqeivgAAAF
+Socket disconnected: q7eUnUzJhOJqeivgAAAF
+Socket connected: 4TZtS2ZLv7p0YFerAAAH
+Socket disconnected: 4TZtS2ZLv7p0YFerAAAH
+Socket connected: A-B4wZHLMSjBxbggAAAJ
+Teacher 69d5e188451dfcfa74dc56cd joined room
+Socket disconnected: A-B4wZHLMSjBxbggAAAJ
+Socket connected: wFpmmLwBDby4j1noAAAL
+Teacher 69d5e188451dfcfa74dc56cd joined room
+Socket disconnected: wFpmmLwBDby4j1noAAAL
+Socket connected: G1mPFWbt0cMRQRTiAAAN
+Teacher 69d5e188451dfcfa74dc56cd joined room
+Socket disconnected: G1mPFWbt0cMRQRTiAAAN
+Socket connected: edOBnPDVljt1e6YYAAAP
+Teacher 69d5e188451dfcfa74dc56cd joined room
+Socket disconnected: edOBnPDVljt1e6YYAAAP
+Socket connected: QrUS76s8ivppqGfBAAAR
+Teacher 69d5e188451dfcfa74dc56cd joined room
+Socket disconnected: QrUS76s8ivppqGfBAAAR
+Socket connected: nt8ej4v3hgtadUWKAAAT
+Teacher 69d5e188451dfcfa74dc56cd joined room
+Socket disconnected: nt8ej4v3hgtadUWKAAAT
+Socket connected: 54sHnGeKX5suKVVhAAAV
+Teacher 69d5e188451dfcfa74dc56cd joined room
+Socket disconnected: 54sHnGeKX5suKVVhAAAV
+Socket connected: 9hahsARVlfU3k4g6AAAX
+Teacher 69d5e188451dfcfa74dc56cd joined room
+Socket disconnected: 9hahsARVlfU3k4g6AAAX
+Socket connected: e-GB9CwbfDIwCgXZAAAZ
+Teacher 69d5e188451dfcfa74dc56cd joined room
+Socket disconnected: e-GB9CwbfDIwCgXZAAAZ
+Socket connected: 6JCzTMDpIo2xBsFeAAAb
+Socket disconnected: 6JCzTMDpIo2xBsFeAAAb
+Socket connected: Lz5q939t1nJg7jI4AAAd
+Socket disconnected: Lz5q939t1nJg7jI4AAAd
+Socket connected: 5eMMwZnIJ-7qmAJJAAAf
+Socket disconnected: 5eMMwZnIJ-7qmAJJAAAf
+Socket connected: JhxLDLVUD9sdCt7gAAAh
+Socket disconnected: JhxLDLVUD9sdCt7gAAAh
+Socket connected: 8oj18mT1Y5qwMU2iAAAj
+Socket disconnected: 8oj18mT1Y5qwMU2iAAAj
+Socket connected: -QD1OalpDcSBsWxoAAAl
+Socket disconnected: -QD1OalpDcSBsWxoAAAl
+Socket connected: MBcDr337UJ9ZRwg6AAAn
+Socket disconnected: MBcDr337UJ9ZRwg6AAAn
+Socket connected: d4C8WPWDrSSj28lIAAAp
+Socket disconnected: d4C8WPWDrSSj28lIAAAp
