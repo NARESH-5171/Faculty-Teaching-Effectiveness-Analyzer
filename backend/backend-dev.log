@@ -103,3 +103,7 @@ Socket connected: MBcDr337UJ9ZRwg6AAAn
 Socket disconnected: MBcDr337UJ9ZRwg6AAAn
 Socket connected: d4C8WPWDrSSj28lIAAAp
 Socket disconnected: d4C8WPWDrSSj28lIAAAp
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting child process[39m
+[32m[nodemon] starting `node server.js`[39m
+MongoDB connected

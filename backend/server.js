@@ -57,10 +57,17 @@ io.on('connection', (socket) => {
 mongoose
   .connect(process.env.MONGO_URI)
   .then(() => {
-    console.log('MongoDB connected');
+    console.log('MongoDB Atlas connected successfully');
     server.listen(port, () => console.log(`Server running on port ${port}`));
   })
-  .catch((err) => console.error('DB connection error:', err));
+  .catch((err) => {
+    console.error('MongoDB connection failed:', err.message);
+    console.log('\nPlease check:');
+    console.log('1. Your IP is whitelisted in MongoDB Atlas Network Access');
+    console.log('2. Username and password are correct');
+    console.log('3. Database name exists in your cluster');
+    process.exit(1);
+  });
 
 server.on('error', (err) => {
   if (err.code === 'EADDRINUSE') {

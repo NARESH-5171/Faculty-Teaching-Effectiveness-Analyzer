@@ -13,7 +13,7 @@ export const SocketProvider = ({ children }) => {
   useEffect(() => {
     if (!user) return;
 
-    socketRef.current = io('http://localhost:5000', { transports: ['websocket'] });
+    socketRef.current = io('https://faculty-teaching-effectiveness-analyzer.onrender.com', { transports: ['websocket'] });
 
     socketRef.current.on('connect', () => {
       setConnected(true);
